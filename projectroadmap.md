@@ -1,0 +1,20 @@
+- [X]  Finalize prject idea and make sure it is approved (Exercise 6 and input information in excel) DONE
+- [X]  Join KSU repository DONE
+- [X]  Create a repository for the project DONE
+- [X]  Create a read.me for the repository DONE
+- [X]  Create a roadmap for the respository DONE
+- [X]  Find an existing Python cde related to Style Me DONE
+- [X]  Run the code to make sure it works DONE
+- [ ]  Analyze the code to see what will and will not work for Style Me
+- [ ]  Create a wordd with all information needed for the music artist
+- [ ]  Create a second word with all information needed for the multiple fashion styles
+- [ ]  Begin to pre-plan the potential features of the finished code
+- [ ]  Create a practice on Python or Jupyter as a practice tool
+- [ ]  Begin editing on the pre-chosen code 
+- [ ]  Code each music genre at a time if possible
+- [ ]  Run the initial prototype code 
+- [ ]  Obtain help and make edits to code 
+- [ ]  Continuosly run code to check for bugs/errors
+- [ ]  Test the code on other individuals to check language and operation comprehension and effeciency
+- [ ]  Finalize code
+- [ ]  Create presentation and present code
