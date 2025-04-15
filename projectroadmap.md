@@ -5,13 +5,13 @@
 - [X]  Create a roadmap for the respository DONE
 - [X]  Find an existing Python cde related to Style Me DONE
 - [X]  Run the code to make sure it works DONE
-- [ ]  Analyze the code to see what will and will not work for Style Me
-- [ ]  Create a wordd with all information needed for the music artist
+- [X]  Analyze the code to see what will and will not work for Style Me Done
+- [ ]  Create a wordd with all information needed for the music artist Done
 - [ ]  Create a second word with all information needed for the multiple fashion styles
-- [ ]  Begin to pre-plan the potential features of the finished code
-- [ ]  Create a practice on Python or Jupyter as a practice tool
-- [ ]  Begin editing on the pre-chosen code 
-- [ ]  Code each music genre at a time if possible
+- [ ]  Begin to pre-plan the potential features of the finished code Done
+- [ ]  Create a practice on Python or Jupyter as a practice tool Done
+- [ ]  Begin editing on the pre-chosen code Done
+- [ ]  Code each music genre at a time if possible Done
 - [ ]  Run the initial prototype code 
 - [ ]  Obtain help and make edits to code 
 - [ ]  Continuosly run code to check for bugs/errors
