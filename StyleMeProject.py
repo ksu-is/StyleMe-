@@ -24,5 +24,44 @@ while True:
     except ValueError:
        print("Invalid input. Please only enter a number.")
     
-# Step 3: 
+# Step 3: Introduce the music genre artist choices utilizing 2 choices each gennre
+artist_choices = {
+  "Hip-Hop": [
+    ("Lil Wayne", "Lil Baby")
+    ("Eminem", "J.Cole")
+    ("Dr.Dre", "Metro Boomin")
+    ("Lil Kim", "Meghan Thee Stallion")
+    ("Nicki Minaj", "Flo Milli")
+  ],
+  "Rock": [
+    ("Radiohead", "Red Hot Chili Peppers")
+    ("Green Day", "The White Stripes")
+    ("Nirvana", "Arctic Monkeys")
+    ("Queen", "Blink-182")
+  ],
+  "Country": [
+   ("Kane Brown", "Shaboozey")
+   ("Chris Stapleton", "Luke Combs") 
+   ("Blake Shelton", "Morgan Wallon")
+   ("Dolly Parton", "Kacey Musgraves")
+   ("Reba McEntire", "Carrie Underwood")
+  ],
+  "Pop"; [
+  ("Whitney Houston", "Beyonce")
+  ("Celine Deion", "Arianna grande")
+  ("TLC", "Destinys's, Child")
+  ("ColdPlay", "One-Direction")
+  ("Michael Jackson", "Pharrell Williams")
+ ],
+  "R&B"; [
+  ("Jhene Aiko", "Kehlani")
+  ("Jeremih", "Bryson Tiller")
+  ("Victoria Monet", "Muni Long")
+  ("Usher", "Chris Brown")
+  ("Alicia Keys", "Ella Mai")
+],
+}
 
+chosen_artist = []
+print(f"Now there will be 5 rounds where you have to choose between two popular artist within the {chosen_genre} genre! Have Fun!
+artist_pairs = artist_choices.get(chosen_genre)
