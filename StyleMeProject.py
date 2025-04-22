@@ -63,5 +63,27 @@ artist_choices = {
 }
 
 chosen_artist = []
-print(f"Now there will be 5 rounds where you have to choose between two popular artist within the {chosen_genre} genre! Have Fun!
+print(f"Now there will be 5 rounds where you have to choose between two popular artist within the {chosen_genre} genre! Have Fun!")
 artist_pairs = artist_choices.get(chosen_genre)
+
+if artist_pair:
+  for i, (artist1, artist 2) in enumerate(artist_pairs, 1):
+    while True: 
+      choice = input(f"Round {i}: Who do you prefer?|n(1) {artist}\n(2) 1 or 2: ")
+      if choice == "1": 
+        chosen_artists.append(artist1)
+        print(f"You chose {artist1}!/n")
+        break 
+      elif choice == "2":
+        chosen_artists.append(artist2)
+        print(f"You chose {artist2}!\n")
+      else:
+        print("Invalid choice. Please go back and enter 1 or 2.")
+else: 
+  print(f"SSorry, we dont have artist choices for the {chosen_genre} genre yet."
+
+#Step 4: Style Generation (complete description will be added later)
+print("\n--- Style Generation will be put here----")
+print(f"Based on your chosen genre and artist(Genre: {Chosen_genre}, Artists: {chosen_artists}), StyleMe! will now create your new style!")
+
+style_me()
